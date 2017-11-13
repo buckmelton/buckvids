@@ -1,3 +1,3 @@
 # BuckVids
 
-Searchable video browser / player built on React, Redux, and Google API.
+Searchable video browser / player built on React and Redux.
